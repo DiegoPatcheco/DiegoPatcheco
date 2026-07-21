@@ -1,39 +1,74 @@
-# Hi everyone 👋🏻, I'm Diego Pacheco Flores
+# Hey, I’m Diego 👋
 
-I am an Quality Assurance Engineer focused on Test Automation programming. As someone that enjoys implementing automated testing i’m excited to continue contributing to impactful projects where quality and innovation come together to achieve outstanding outcomes.
+### Senior QA Automation Engineer | SDET
 
-I am enthusiastic, compassionate, and adept at teamwork, effective communication, accountability, and initiative. I thrive on overcoming challenges and continuously seek opportunities to expand my knowledge. My ambition is to refine my skills, gain hands-on experience, and advance my professional journey as a leader.
+I build automation for mobile, web and APIs, but what I enjoy most is figuring out why things break.
 
-<p>
-<a href="https://www.linkedin.com/in/diego-pacheco-flores-1434a9208"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://diegopachecoqaportfolio.carrd.co/"><img src="https://img.shields.io/badge/carrd-596CAF?style=for-the-badge&logo=carrd&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-</p>
+I’m the kind of engineer who wants to understand why a test failed, not just rerun it until it passes. I enjoy debugging complex issues, stabilizing flaky automation, improving frameworks and turning repetitive validation into reliable engineering solutions.
+
+Over the past 5+ years, I’ve worked across fintech and telecommunications, testing Android and iOS applications, REST APIs, web experiences, WebViews and CI/CD workflows.
+
+When I’m not fixing tests, I’m probably learning a new tool, experimenting with AI-assisted development or finding a way to make a framework cleaner than it was yesterday.
+
+## About me
+
+- 📱 Mobile automation for Android and iOS using Java, Appium, UIAutomator2 and XCUITest
+- 🌐 Web automation using Selenium WebDriver, Cucumber, TestNG and JUnit
+- 🔌 REST API validation using REST Assured, Postman and JSON
+- ⚙️ CI/CD execution with GitHub Actions, Jenkins, Maven, BrowserStack and LambdaTest
+- 🧩 Experience with WebViews, iframes, window handling, reusable utilities and Page Object Model
+- 🤖 Practical use of GitHub Copilot, Claude, and Claude Code for debugging, code analysis, documentation and automation development
+- 🏅 ISTQB CTFL certified
+- 🌎 English C1 | Spanish native
+
+## A little more about me
+
+- 🔍 I genuinely enjoy debugging and root-cause analysis.
+- 🧹 Flaky tests bother me more than they probably should.
+- 🤖 I use AI tools as engineering assistants—not as replacements for understanding the code.
+- 🎸 Outside of QA, I enjoy music, songwriting and recording.
+- 🌱 I’m currently expanding my skills in Playwright, Docker, AI agents and test architecture.
+
+## Core technologies
+
+**Languages:** Java · Python · SQL
+
+**Automation:** Appium · Selenium WebDriver · REST Assured · Cucumber · TestNG · JUnit
+
+**Mobile:** Android · iOS · UIAutomator2 · XCUITest · WebView
+
+**CI/CD & Cloud:** GitHub Actions · Jenkins · Maven · BrowserStack · LambdaTest
+
+**Tools:** Git · GitHub · Postman · Jira · Xray · TestRail · Android Studio · Xcode · Proxyman
+
+## Featured automation projects
+
+### 📱 [Grapefy — Mobile BDD Automation Framework](https://github.com/DiegoPatcheco/Grapefy-Appium_SkillDemo)
+
+My cross-platform mobile automation project for Android and iOS. I built it to apply readable BDD scenarios, reusable Page Objects, cloud-device execution, and CI/CD practices in a framework structured like a real engineering project.
+
+### 🔌 [Blackfy — REST API BDD Automation Framework](https://github.com/DiegoPatcheco/Blackfy-RestAssured_SkillDemo)
+
+An API automation framework focused on readable scenarios, reusable request specifications and reliable response validation. This project reflects how I prefer to approach backend testing: structured, maintainable and easy for the team to understand.
+
+### 🌐 [Cyanfy — Web BDD Automation Framework](https://github.com/DiegoPatcheco/Cyanfy-Selenium_SkillDemo)
+
+A Selenium-based web automation framework designed around reusable components and readable regression scenarios. I used it to explore how BDD and Page Object Model can improve collaboration without making the framework unnecessarily complicated.
+
+## Currently exploring
+
+- AI-assisted test automation and QA agents
+- Playwright
+- Docker-based automation environments
+- Advanced GitHub Actions workflows
+- Test architecture and scalable framework design
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/diego-pacheco-flores-1434a9208/)
+- [Professional Portfolio](https://diegopachecoqaportfolio.carrd.co/)
+- [Resume](https://flowcv.com/resume/qoqhsbt0rp)
 
 ---
 
-### Tecnologies
-
-🎨 Automation testing Tools:
-
-![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6E9F18?style=for-the-badge)
-![PostMan](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-📋 Programming Languages:
-
-![Java](https://img.shields.io/badge/java-C00000?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-🕓 Version Control:
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-🥅 Other Tools:
-
-![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jenkkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
----  
+Open to Senior QA Automation Engineer, QA Automation Engineer, SDET and Test Automation Engineer opportunities, including full-time and contract roles.
