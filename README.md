@@ -43,9 +43,9 @@ When I’m not fixing tests, I’m probably learning a new tool, experimenting w
 
 ## Featured automation projects
 
-### 📱 [Grapefy — Mobile BDD Automation Framework](https://github.com/DiegoPatcheco/Grapefy-Appium_SkillDemo)
+### 📱 [Grapefy — Mobile BDD Automation Framework](https://github.com/DiegoPatcheco/grapefy-mobile-automation)
 
-My cross-platform mobile automation project for Android and iOS. I built it to apply readable BDD scenarios, reusable Page Objects, cloud-device execution, and CI/CD practices in a framework structured like a real engineering project.
+Android mobile automation framework built with Java, Appium, Cucumber and Page Object Model, with local and BrowserStack execution, Maven Failsafe build validation and CI/CD reporting.
 
 ### 🔌 [Blackfy — REST API BDD Automation Framework](https://github.com/DiegoPatcheco/Blackfy-RestAssured_SkillDemo)
 
