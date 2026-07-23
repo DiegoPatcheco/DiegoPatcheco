@@ -51,9 +51,9 @@ Android mobile automation framework built with Java 17, Appium, Cucumber, Maven 
 
 An API automation framework focused on readable scenarios, reusable request specifications and reliable response validation. This project reflects how I prefer to approach backend testing: structured, maintainable and easy for the team to understand.
 
-### 🌐 [Cyanfy — Web BDD Automation Framework](https://github.com/DiegoPatcheco/Cyanfy-Selenium_SkillDemo)
+### 🌐 [Cyanfy — Web BDD Automation Framework](https://github.com/DiegoPatcheco/cyanfy-web-automation)
 
-A Selenium-based web automation framework designed around reusable components and readable regression scenarios. I used it to explore how BDD and Page Object Model can improve collaboration without making the framework unnecessarily complicated.
+Framework Web BDD con Java, Selenium, Cucumber y JUnit 5, aplicando Page Object Model, manejo robusto de WebDriver, evidencias automáticas, reportes y CI con pruebas reales en Chrome headless.
 
 ## Currently exploring
 
