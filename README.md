@@ -47,7 +47,7 @@ When I’m not fixing tests, I’m probably learning a new tool, experimenting w
 
 Android mobile automation framework built with Java 17, Appium, Cucumber, Maven Failsafe and Page Object Model, featuring local and BrowserStack execution, GitHub Actions validation, Android emulator smoke testing and diagnostic reporting.
 
-### 🔌 [Blackfy — REST API BDD Automation Framework](https://github.com/DiegoPatcheco/Blackfy-RestAssured_SkillDemo)
+### 🔌 [Blackfy — REST API BDD Automation Framework](https://github.com/DiegoPatcheco/blackfy-api-automation)
 
 An API automation framework focused on readable scenarios, reusable request specifications and reliable response validation. This project reflects how I prefer to approach backend testing: structured, maintainable and easy for the team to understand.
 
