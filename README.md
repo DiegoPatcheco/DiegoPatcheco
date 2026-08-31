@@ -1,6 +1,6 @@
 # Hey, I’m Diego 👋
 
-### Senior QA Automation Engineer | SDET
+### QA Automation Engineer | SDET
 
 I build automation for mobile, web and APIs, but what I enjoy most is figuring out why things break.
 
@@ -53,7 +53,7 @@ An API automation framework focused on readable scenarios, reusable request spec
 
 ### 🌐 [Cyanfy — Web BDD Automation Framework](https://github.com/DiegoPatcheco/cyanfy-web-automation)
 
-Framework Web BDD con Java, Selenium, Cucumber y JUnit 5, aplicando Page Object Model, manejo robusto de WebDriver, evidencias automáticas, reportes y CI con pruebas reales en Chrome headless.
+Web BDD automation framework built with Java 17, Selenium WebDriver, Cucumber and JUnit 5, applying Page Object Model, resilient WebDriver management, automatic evidence capture, reporting, and CI execution with real Chrome headless tests.
 
 ## Currently exploring
 
@@ -71,4 +71,4 @@ Framework Web BDD con Java, Selenium, Cucumber y JUnit 5, aplicando Page Object 
 
 ---
 
-Open to Senior QA Automation Engineer, QA Automation Engineer, SDET and Test Automation Engineer opportunities, including full-time and contract roles.
+Open to QA Automation Engineer, SDET and Test Automation Engineer opportunities, including full-time and contract roles.
