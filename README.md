@@ -65,7 +65,7 @@ Web BDD automation framework built with Java 17, Selenium WebDriver, Cucumber an
 
 ## Let's connect
 
-- [LinkedIn](https://www.linkedin.com/in/diego-pacheco-flores-1434a9208/)
+- [LinkedIn](https://www.linkedin.com/in/diegopachecoqa)
 - [Professional Portfolio](https://diegopachecoqaportfolio.carrd.co/)
 - [Resume](https://flowcv.com/resume/qoqhsbt0rp)
 
