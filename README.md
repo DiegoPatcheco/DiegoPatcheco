@@ -17,6 +17,8 @@ When I’m not fixing tests, I’m probably learning a new tool, experimenting w
 - 🌐 Web automation using Playwright, Selenium WebDriver, JavaScript/TypeScript, Java, Cucumber, TestNG and JUnit
 - 🔌 REST API validation using REST Assured, Postman and JSON
 - ⚙️ CI/CD execution with GitHub Actions, Jenkins, Maven, BrowserStack and LambdaTest
+- 🧭 Experience leading automation planning across SDET teams, including test strategy, task coordination and technical decision-making
+- 🤖 Co-developed an AI-assisted workflow that transforms requirements and acceptance criteria into Gherkin scenarios and Step Definition foundations
 - 🧩 Experience with WebViews, iframes, window handling, reusable utilities and Page Object Model
 - 🤖 Practical use of GitHub Copilot, Claude, Claude Code and Codex for debugging, code analysis, documentation and automation development
 - 🏅 ISTQB CTFL certified
